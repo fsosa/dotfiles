@@ -8,6 +8,8 @@ set background=dark
 set title
 " Highlight dynamically as pattern is typed
 set incsearch
+" Syntax highlight on please
+syntax on
 
 
 
